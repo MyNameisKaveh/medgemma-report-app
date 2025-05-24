@@ -1,0 +1,7 @@
+transformers>=4.50.0
+torch
+Pillow
+requests
+accelerate
+gradio
+sentencepiece
